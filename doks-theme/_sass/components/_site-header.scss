@@ -3,6 +3,13 @@
  */
 
 /* ----- General ----- */
+header {
+	background-color: $color-theme-blue;
+}
+
+header + .section {
+	padding-top: 10rem;
+}
 .site-header {
 	position: absolute;
 	width: 100%;

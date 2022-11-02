@@ -20,14 +20,16 @@ doks:
                 image:
             copyright: Copyright &copy; 2022 - Open Air Collective <br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
             - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
+              profile_url: 'https://twitter.com/openaircollect'
             - network_name: youtube
-              profile_url: '#'
+              profile_url: 'https://www.youtube.com/channel/UCxG5KAao5rJY3vvwbVUSv4g'
+            - network_name: instagram
+              profile_url: 'https://www.instagram.com/theopenaircollective/?hl=en'
+            - network_name: linkedin
+              profile_url: 'https://www.linkedin.com/company/openair-collective'
+            - network_name: github
+              profile_url: 'https://github.com/openair-collective'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
